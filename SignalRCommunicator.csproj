@@ -7,6 +7,10 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>serfend</Authors>
     <Description>signalr client and server implement</Description>
+
+	<PackageId>SignalRCommunicator</PackageId>
+	<Version>1.0.2</Version>
+	<Company>sf</Company>
   </PropertyGroup>
 
   <ItemGroup>
